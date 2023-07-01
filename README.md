@@ -5,7 +5,7 @@
 - 📫 Reach to me ... wanekarajay303@gmail.com
 - ⬇️ Connect with me here
 
-  [![Mylinkedin](https://www.linkedin.com/in/ajay-wanekar-245a50230/)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-wanekar-245a50230/)
 
 <!---
 ajaywanekar/ajaywanekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
