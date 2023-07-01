@@ -1,7 +1,7 @@
 - 👋 Hi, Ajay Wanekar is here....!
 - 👀 Highly motivated by Research on Artificial Intelligence and Machine Learning.
-- 🌱 process of being expert in Data Science .
-- 💞️ I would Love to collaborate on AI & ML Projects.
+- 🌱 Learning New things is my HABIT
+- 💞️ I would love to collaborate on AI & ML Projects.
 - 📫 Reach to me ... wanekarajay303@gmail.com
 - ⬇️ Connect with me here
 
