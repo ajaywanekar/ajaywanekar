@@ -1,5 +1,5 @@
 - 👋 Hi, Ajay Wanekar is here....!
-- 👀 Highly motivated by Research on Artificial Intelligence and Machine Learning.
+- 👀 Project Associate at IIT Hyderabad, motivated by Research on Artificial Intelligence and Machine Learning.
 - 🌱 Learning New things is my HABIT
 - 💞️ I would love to collaborate on AI & ML Projects.
 - 📫 Reach to me ... wanekarajay303@gmail.com
